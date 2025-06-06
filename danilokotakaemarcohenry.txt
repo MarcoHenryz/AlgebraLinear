@@ -1,0 +1,25 @@
+Nomes: Danilo Kotaka e Marco Henry
+
+Matriz de entrada (A):
+1	2	3	
+4	5	6	
+7	8	9	
+
+Polinomio caracteristico:
+1x^3 + (-15.00)x^2 + (-18.00)x + (-0.00) = 0
+
+Autovalores encontrados:
+lambda[1] = 16.1168
+lambda[2] = -1.1168
+lambda[3] = -0.0000
+
+Matriz de autovalores (D):
+16.1168	0.0000	0.0000	
+0.0000	-1.1168	0.0000	
+0.0000	0.0000	-0.0000	
+
+Autovetores associados a cada autovalor:
+Autovetor para lambda = 16.1168: [0.2320, 0.5253, 0.8187]
+Autovetor para lambda = -1.1168: [-0.7858, -0.0868, 0.6123]
+Autovetor para lambda = -0.0000: [-0.4082, 0.8165, -0.4082]
+
